@@ -8,6 +8,7 @@
 - LINE Messaging API
 - BeautifulSoup / requests
 - TfidfVectorizer
+- Google Sheets / Google Docs API
 
 ## ⚙️ 系統架構
 - 用戶透過 LINE 發送文字訊息
